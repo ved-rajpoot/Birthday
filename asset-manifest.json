@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/birthday/static/css/main.d28f646e.css",
+    "main.js": "/birthday/static/js/main.daf61437.js",
+    "static/js/787.ad5c841c.chunk.js": "/birthday/static/js/787.ad5c841c.chunk.js",
+    "static/media/song.mp3": "/birthday/static/media/song.abad9088714bbef155cf.mp3",
+    "static/media/love.jpeg": "/birthday/static/media/love.54d62a77089c733024e6.jpeg",
+    "static/media/jiya.jpg": "/birthday/static/media/jiya.c4f567000bc6eed3551a.jpg",
+    "index.html": "/birthday/index.html",
+    "main.d28f646e.css.map": "/birthday/static/css/main.d28f646e.css.map",
+    "main.daf61437.js.map": "/birthday/static/js/main.daf61437.js.map",
+    "787.ad5c841c.chunk.js.map": "/birthday/static/js/787.ad5c841c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d28f646e.css",
+    "static/js/main.daf61437.js"
+  ]
+}
