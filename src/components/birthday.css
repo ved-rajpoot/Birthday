@@ -35,16 +35,20 @@
   .card{
     /* min-width: 200px; */
     width: 300px;
+    /* min-width: 20vw ; */
     margin: 50px 50px;
     /* width: 30%; */
   }
   .card1, .cardtitle1{
     /* font-size: ; */
     font-family: 'Fredoka', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Ramaraja', serif;
     color: rgb(255, 172, 94) !important;
   }
   .card2, .cardtitle2{
     font-family: 'Fredoka', sans-serif;
+    font-family: 'Ramaraja', serif;
     color: thistle !important;
   }
   .card3, .cardtitle3{
