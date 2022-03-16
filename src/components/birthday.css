@@ -1,0 +1,115 @@
+.first_div{
+    background-color: wheat;
+    border: 2px solid wheat;
+    border-radius: 10px;
+}
+
+.first_header{
+  font-family: 'Fredoka', sans-serif;
+  font-family: 'Lobster', cursive;
+  font-family: 'Permanent Marker', cursive;
+  font-family: 'Ramaraja', serif;
+    color: wheat;
+  text-align: center;
+}
+.center__div::before{
+    content: '';
+    /* background: url('./love.jpeg'); */
+    position:absolute;
+    top:0px;
+    left:0px;
+    z-index: 1;
+    /* size: 100%; */
+}
+
+.mycontainer{
+    display: flex;
+    flex-wrap: wrap;
+    align-items:center;
+    min-height:100vh; 
+    width:100%;
+    background-color:rgb(23, 14, 25);;
+    display:flex;
+    justify-content: space-evenly;
+  }
+  .card{
+    /* min-width: 200px; */
+    width: 300px;
+    margin: 50px 50px;
+    /* width: 30%; */
+  }
+  .card1, .cardtitle1{
+    /* font-size: ; */
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Ramaraja', serif;
+    color: rgb(255, 172, 94) !important;
+  }
+  .card2, .cardtitle2{
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Ramaraja', serif;
+    color: thistle !important;
+  }
+  .card3, .cardtitle3{
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Ramaraja', serif;
+    
+    color: aqua !important;
+  }
+  .card4, .cardtitle4{
+    
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Ramaraja', serif;
+    color: rgb(67, 255, 108) !important;
+  }
+  .card5, .cardtitle5{
+    width: 250px !important;
+    
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Ramaraja', serif;
+    color: antiquewhite !important;
+  }
+  .card6, .cardtitle6{
+    
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Ramaraja', serif;
+    color: rgb(255, 255, 106) !important;
+  }
+  .card7, .cardtitle7{
+    
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Ramaraja', serif;
+    color: yellowgreen;
+  }
+  .card8, .cardtitle8{
+    
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Ramaraja', serif;
+    color: skyblue !important;
+  }
+  .card9, .cardtitle9{
+    
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Ramaraja', serif;
+    color: tomato !important;
+  }
+  .card-img-top{
+    /* height: 200px; */
+    max-width: 100%;
+    max-height: 100%;
+
+    border: 1px solid wheat;
+    border-radius: 15px;
+  }
+  .Heading{
+    text-align: center;
+    margin: 20px 40px;
+    font-weight: bold;
+    font-size: 40px;
+  }
+  .card-title{
+      color: wheat;
+  }
